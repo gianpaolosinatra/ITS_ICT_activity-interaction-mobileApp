@@ -1,0 +1,4 @@
+#Wed May 15 17:23:14 CEST 2019
+base.0=/Users/m.gregoricchio/Desktop/Mobile_D7/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex
